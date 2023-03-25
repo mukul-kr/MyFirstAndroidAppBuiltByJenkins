@@ -60,7 +60,7 @@
           <credentialsId>MyJenkinsInstancev</credentialsId>
           <repoOwner>gounthar</repoOwner>
           <repository>MyFirstAndroidAppBuiltByJenkins</repository>
-          <repositoryUrl>https://github.com/gounthar/MyFirstAndroidAppBuiltByJenkins.git</repositoryUrl>
+          <repositoryUrl>https://github.com/mukul-kr/MyFirstAndroidAppBuiltByJenkins.git</repositoryUrl>
           <traits>
             <org.jenkinsci.plugins.github__branch__source.BranchDiscoveryTrait>
               <strategyId>1</strategyId>
